@@ -53,7 +53,7 @@
       "description": "Number of containers which will be created in each peer",
       "type": "int",
       "default": "1",
-      "validation": "[3-9]+"
+      "validation": "[0-9]+"
     },
     "peerCount": {
       "description": "Number of peers where will be created containers",
